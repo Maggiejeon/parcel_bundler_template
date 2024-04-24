@@ -1,0 +1,10 @@
+@charset 'utf-8';
+h1 {
+  backdrop-filter: blur();
+  font-size: 50px; color: #808080;
+  accent-color: red;
+  span {
+    color: orange;
+    font-weight: bold;
+  }
+}
